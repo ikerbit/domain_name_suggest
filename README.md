@@ -28,7 +28,9 @@ Output:
 
 
 Checking available domain names...
+
 Available domain names:
+
 exampletest.com
 testexample.com
 example-test.com
